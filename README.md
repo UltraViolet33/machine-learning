@@ -1,4 +1,4 @@
-# Machine-learning with Python
+# Machine-Learning with Python
 
 This is a basic machine learning program to create a model f(x) = ax + b or y = ax + b from datasets of y as a function of x.
 
@@ -15,7 +15,7 @@ Then we create a random model. This is not a good model. There are a lot of erro
 
 We create the cost function which calculates the sum of the errors of the model.
 
-## 4) Gradient ans gradient descent
+## 4) Gradient and gradient descent
 
 We use the gradient descent method to minimize the cost function.
 
